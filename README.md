@@ -1,7 +1,7 @@
 # Medical_Management_System
 ### A medical Management System with Design Patterns Principles 
 ### Team Members :
-####     MAHMOUD ALSOUDY AHMAD
-####     RENAD ABDELRAHMAN
-####     SHAHD OMAR MAHMOUD
-####     ENAS ESSAM MOHAMED
+####     1- MAHMOUD ALSOUDY AHMAD
+####     2- RENAD ABDELRAHMAN
+####     3- SHAHD OMAR MAHMOUD
+####     4- ENAS ESSAM MOHAMED
